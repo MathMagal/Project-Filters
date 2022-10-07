@@ -9,7 +9,7 @@ Note: This project only uses gray scale image.
 </text>
 
 
-### IDEAL FILTER:
+## IDEAL FILTER:
 
 <div align = "center">
 <text>Out examples:<text/>
@@ -18,7 +18,7 @@ Note: This project only uses gray scale image.
 <img width=50% src="https://raw.githubusercontent.com/MathMagal/Project-Filters/main/Image/Results/IdealFilterResults.jpg">
 </div>
 
-### BUTTERWORTH:
+## BUTTERWORTH:
 
 <div align = "center">
 <text>Out examples:<text/>
@@ -27,7 +27,7 @@ Note: This project only uses gray scale image.
 <img width=50% src="https://raw.githubusercontent.com/MathMagal/Project-Filters/main/Image/Results/ButterworthResult.jpg">
 </div>
 
-### GAUSSIAN:
+## GAUSSIAN:
 
 <div align = "center">
 <text>Out examples:<text/>
@@ -36,7 +36,7 @@ Note: This project only uses gray scale image.
 <img width=50% src="https://raw.githubusercontent.com/MathMagal/Project-Filters/main/Image/Results/GaussianResult.jpg">
 </div>
 
-### BANDPASS:
+## BANDPASS:
 
 <div align = "center">
 <text>Out examples:<text/>
@@ -45,7 +45,7 @@ Note: This project only uses gray scale image.
 <img width=50% src="https://raw.githubusercontent.com/MathMagal/Project-Filters/main/Image/Results/BandPassResult.jpg">
 </div>
 
-### FUTURE IMPROVEMENTS:
+## FUTURE IMPROVEMENTS:
 
 <text>
 <br>
